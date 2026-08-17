@@ -8,6 +8,10 @@ The Student Management System is a desktop application developed using
 Python and Tkinter. It allows users to add, search, update and delete
 student records through a graphical user interface.
 
+## 📷 Project Preview
+
+![Student Management System](student-management-system.png)
+
 ## 🚀 Features
 
 - Add Student
